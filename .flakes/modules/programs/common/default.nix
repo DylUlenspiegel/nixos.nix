@@ -1,0 +1,9 @@
+[
+  #./lazygit
+  ./neofetch
+  #./wpaperd
+  ./ranger
+  ./resource_monitor
+  ./zathura
+  ./kitty
+]
